@@ -9,11 +9,11 @@ const profile: IProfile.Payload = {
 
   // image: 'https://resume.yowu.dev/static/image/profile_2019.png',
   image,
-  name: {
+  name: { 김현민
     title: 'Lorem ipsum',
     small: '(LI)',
   },
-  contact: [
+  contact: [01058781930
     {
       title: 'foo@bar.xyz',
       link: '#',
